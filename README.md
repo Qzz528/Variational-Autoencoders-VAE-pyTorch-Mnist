@@ -2,4 +2,4 @@
 https://zhuanlan.zhihu.com/p/642406552
 
 变分自编码器
-条件变分自编码器：CVAE(variant).py
+条件变分自编码器：CVAE.py
